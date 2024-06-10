@@ -1,0 +1,127 @@
+body{font-family:Arial,Helvetica,sans-serif;width:100%}
+
+#header{height:150px;width:75%;background-color:#fdfffc;margin-top:5px;}
+#header{
+    border-radius: 15px;
+}
+.head-title{
+    background: linear-gradient(135deg,#ff00d2,#fed90f,#00a2ff,#09f1b8,#ff00d2,#fed90f,#fed90f,#00a2ff,#09f1b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.homecilck{margin-right: 31%;
+    background: linear-gradient(135deg,#ff00d2,#fed90f,#00a2ff,#09f1b8,#ff00d2,#fed90f,#fed90f,#00a2ff,#09f1b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
+
+
+#head-title{padding-top:50px;font-weight:700;font-size:45px;  }
+
+#heading{background-color:#299141;height:35px;color:#e01111:700;font-size:20px; 
+}
+#heading{ border-radius: 10px;}
+
+#menu ul{list-style-type:none;margin:;padding:0;width:75%;margin-top:-1px}
+
+#menu ul li{display:inline;float:left;background-color:#000;height:40px}
+
+#menu ul li{display:inline;float:left;display:block}
+
+#menu ul li a{display:block;width:100px;color:#ffffff;padding-top:
+    px}
+
+#box1{height:800px;width:300px;border:1px;border-style:groove;border-color:rgb(134, 173, 95);background-color:#fff;border:2px solid #299141 }
+#box1{border-radius: 13px;}
+#box2{border-radius: 13px;}
+#box3{border-radius: 14px;}
+
+#box2{height:300px;width:300px;border:1px;border-style:groove;border-color:#360;background-color:#fff;border:2px solid #299141}
+#box2{height:290px;width:300px;border:1px;border-style:groove;border-color:#360;background-color:#fff;border:2px solid #299141}
+
+    
+
+
+table td{width:25%}
+
+#post ul li a{line-height:1.8px}
+
+#marquee1{width:75%}
+
+
+#image1{height:60px;width:245px;background-color:#082e5a;font-size:20px;color:#000000;font-weight:700;
+    
+}
+
+
+
+#image1 a{height:60px;width:245px; font-size:20px;color:#ffffff;font-weight:700; text-decoration:none
+    
+
+}
+
+#image2{height:60px;width:245px;background-color:#5b2605;font-size:x-large;color:#292222;font-weight:700}
+
+#image2 a{height:60px;width:245px; font-size:;color:#fff;font-weight:700;text-decoration:none}
+
+#image3{height:60px;width:245px;background-color:#1d5607;font-size:x-large;color:#fff;font-weight:700}
+
+#image3 a{height:60px;width:245px; font-size:x-large;color:#fff;font-weight:700;text-decoration:none}
+
+#image4{height:60px;width:245px;background-color:#7a0909;font-size:x-large;color:#fff;font-weight:700}
+
+#image4 a{height:60px;width:245px; font-size:x-large;color:#fff;font-weight:700;text-decoration:none}
+
+#image5{height:60px;width:245px;background-color:#700c0c;font-size:20px;color:#fff;font-weight:700}
+
+#image5 a{height:60px;width:245px; font-size:20px;color:#fff;font-weight:700;text-decoration:none}
+
+#image6{height:60px;width:245px;background-color:#066406;font-size:20px;color:#fff;font-weight:700}
+
+#image6 a{height:60px;width:245px; font-size:20px;color:#fff;font-weight:700;text-decoration:none}
+
+#image7{height:60px;width:245px;background-color:#05115f;font-size:20px;color:#fff;font-weight:700}
+
+#image7 a{height:60px;width:245px; font-size:20px;color:#fff;font-weight:700;text-decoration:none}
+
+#image8{height:60px;width:245px; background-color: #00458a; font-size:20px;color:#fff;font-weight:700}
+
+#image8 a{height:60px;width:245px; font-size:20px;color:#fff;font-weight:700;text-decoration:none}
+
+
+#view a{padding-top:4px;font-size:18px;font-weight:700;margin-left:180px;color:#000098;text-decoration:none}
+
+#matter{color:red;font-size:17px;text-align:center}
+
+#wrap{width: 77%;height:50px;margin:0;z-index:99;position:relative;background-color:#ffffff}
+    
+    
+
+
+.navbar li{
+    border-radius: 20px;
+    box-shadow: 8px 8px 15px;
+}
+
+
+.navbar{height:100%;padding:0px;margin:0px;position:absolute;
+margin-left: 34px; 
+padding: left 120px;}
+
+.navbar li{height:50px;width:120px;float:left;text-align:center;list-style: none;;font:normal bold 14px/1.2em Arial,Verdana,Helvetica;padding:10;margin:0;
+
+
+}
+.navbar a{padding:18px 0;border-left:1px solid #fff;border-right:1px solid black;text-decoration:none;color:#fff;display:block}
+
+.navbar li ul{display:none;height:auto;margin:0;padding:0;color:#fff}
+
+.navbar li:hover ul{display:block}
+
+.navbar li ul li{background-color:#000000;height:55px;margin-top:-8px}
+
+.navbar li ul li a{border-left:1px solid #1f5065;border-right:1px solid #1f5065;border-top:1px solid #74a3b7;border-bottom:1px solid #1f5065}
+.navbar li ul li a:hover{background-color:#366b82}
+
+@media (max-width:767px)
+
+{#header{width:100%}}
